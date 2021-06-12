@@ -1,0 +1,2 @@
+CSV: https://public.opendatasoft.com/explore/dataset/the-tate-collection/export/
+JSON: https://github.com/tategallery/collection
